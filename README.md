@@ -2,7 +2,7 @@
 
 This is my first Electron Desktop Application, a cute rubber duck that helps you debug your code. Explain your code to the duck and it will help you find the bugs!
 
-_If you want to read the story of the debugging duck_: [Rubber duck debugging - wiki](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+_If you want to read the origin of the debugging duck_: [Rubber duck debugging - wiki](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 ## How to use (with Electron Forge)
 
