@@ -8,17 +8,26 @@
         <link rel="stylesheet" href="./style.css" />
     </head>
     <body>
-        <!-- TODO: maybe make the duck say something different every time the app opens? -->
         <div class="titlebar"></div>
         <header>
-            <h1>Debugging Rubber Duck</h1>
-            <p id="duck-phrase">
+            <h1>Debugging Duck</h1>
+            <div id="duck-phrase">
                 "Hello friend, <br />
                 whatchu struggling with?"
-            </p>
+            </div>
         </header>
         <main>
-            <img src="./assets/rubber-duck.png" alt="rubber duck icon" />
+            <div class="imageContainer">
+                <img
+                    src="./assets/rubber-duck-body.png"
+                    alt="rubber duck icon"
+                />
+                <img
+                    id="duck-eyes"
+                    src="./assets/rubber-duck-eyes.png"
+                    alt="rubber duck icon"
+                />
+            </div>
         </main>
     </body>
 </html>

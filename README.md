@@ -12,10 +12,17 @@ _If you want to read the story of the debugging duck_: [Rubber duck debugging - 
     yarn start OR npm start
     ```
 
-## Build App
+## Build App with electron-builder
+
+    ```bash
+    yarn dist
+    ```
+
+## Build App with Electron Forge
 
     ```bash
     yarn make OR npm run make
     ```
 
+[electron-builder Link](https://www.electron.build/)
 [Electron Forge Link](https://www.electronforge.io/)

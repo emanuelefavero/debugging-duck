@@ -1,15 +1,26 @@
 {
     "name": "debugging-duck",
-    "productName": "debugging-duck",
+    "productName": "Debugging Duck",
     "version": "1.0.0",
-    "description": "My Electron application description",
+    "description": "A cute little rubber duck that helps you debug your code",
     "main": "src/index.js",
     "scripts": {
         "start": "electron-forge start",
         "package": "electron-forge package",
         "make": "electron-forge make",
         "publish": "electron-forge publish",
+        "pack": "electron-builder --dir",
+        "dist": "electron-builder",
         "lint": "echo \"No linting configured\""
+    },
+    "build": {
+        "appId": "debugging-duck.app",
+        "mac": {
+            "category": "public.app-category.developer-tools"
+        },
+        "directories": {
+            "buildResources": "resources"
+        }
     },
     "keywords": [],
     "author": {
@@ -19,7 +30,9 @@
     "license": "MIT",
     "config": {
         "forge": {
-            "packagerConfig": {},
+            "packagerConfig": {
+                "icon": "src/assets/icon"
+            },
             "makers": [
                 {
                     "name": "@electron-forge/maker-squirrel",
@@ -54,6 +67,7 @@
         "@electron-forge/maker-rpm": "^6.0.0-beta.66",
         "@electron-forge/maker-squirrel": "^6.0.0-beta.66",
         "@electron-forge/maker-zip": "^6.0.0-beta.66",
-        "electron": "20.1.4"
+        "electron": "20.1.4",
+        "electron-builder": "^23.3.3"
     }
 }

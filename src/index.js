@@ -1,3 +1,4 @@
+const electron = require('electron')
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
@@ -9,15 +10,23 @@ if (require('electron-squirrel-startup')) {
     app.quit()
 }
 
-const createWindow = () => {
+const createWindow = async () => {
+    // get width and height of main screen
+    const screenElectron = electron.screen
+    const mainScreen = screenElectron.getPrimaryDisplay()
+    const dimensions = mainScreen.size
+    const mainScreenWidth = parseInt(dimensions.width)
+    const mainScreenHeight = parseInt(dimensions.height)
+
     // Create the browser window.
     mainWindow = new BrowserWindow({
-        x: 374,
-        y: 230,
-        width: 766,
-        height: 490,
+        x: mainScreenWidth - 250,
+        y: mainScreenHeight - 350,
+        width: 250,
+        height: 350,
         icon: __dirname + '/src/favicon.ico',
         // frame: false,
+        transparent: true,
         titleBarStyle: 'hidden',
         titleBarOverlay: {
             color: '#2f3241',
@@ -25,16 +34,20 @@ const createWindow = () => {
         },
         // backgroundColor: '#2e2c29',
         webPreferences: {
+            contextIsolation: true,
             preload: path.join(__dirname, 'preload.js'),
         },
     })
 
+    mainWindow.setResizable(false)
     // and load the index.html of the app.
     mainWindow.loadFile(path.join(__dirname, 'index.html'))
 
     // Open the DevTools.
     // mainWindow.webContents.openDevTools()
 }
+
+app.setName('Debugging Duck')
 
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
