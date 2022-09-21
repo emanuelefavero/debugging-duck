@@ -5,14 +5,14 @@ window.addEventListener('DOMContentLoaded', () => {
     // Show different phrase each time the app is loaded
     const duckPhraseOutput = document.querySelector('#duck-phrase')
     const phrases = [
-        'Hello friend, watchu struggling with?',
+        'Hello friend, whatchu struggling with?',
         'Whats the matter now?',
-        'are you ok?',
+        'Are you ok?',
         "Wait a second…no I'm here.",
-        'go on! I have all day!',
-        'are you sure you thought of everything?',
+        'Go on! I have all day!',
+        'Are you sure you thought of everything?',
         'Fine. Tell me everything.',
-        "Hey, i's been a while, right?",
+        "Hey, it's been a while, right?",
         'What are you building?',
         'What you broke this time?',
         'Are you really talking to a rubber duck?',
