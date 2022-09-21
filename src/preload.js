@@ -27,7 +27,7 @@ window.addEventListener('DOMContentLoaded', () => {
         'Hey, I was thinking of you! Broke something?',
         'Am I the only one who loves javascript?',
         "I'm listening...always 😱",
-        'Sill here! With you, again...',
+        'Still here! With you, again...',
     ]
     duckPhraseOutput.innerHTML =
         phrases[Math.floor(Math.random() * phrases.length)]
