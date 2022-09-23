@@ -32,12 +32,12 @@ window.addEventListener('DOMContentLoaded', () => {
   duckPhraseOutput.innerHTML =
     phrases[Math.floor(Math.random() * phrases.length)]
 
-  // Track eyes to mouse position
-  // Define Duck Elements
+  // Define Duck Images Elements
   const duckBody = document.getElementById('duck-eyelids-closed')
   const duckEyes = document.getElementById('duck-eyes')
   const duckEyelidsClosed = document.getElementById('duck-eyelids-closed')
 
+  // Track eyes to mouse position
   const onMouseMove = (e) => {
     duckEyes.style.left = e.pageX / 40 + 'px'
     duckEyes.style.top = 56 + e.pageY / 30 + 'px'
@@ -45,6 +45,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }
   document.addEventListener('mousemove', onMouseMove)
 
+  // Setup random intervals for little jump and eyes blinking animations
   setInterval(() => {
     let hideShowRandomTime = (Math.random() * 4 + 1).toFixed(2)
     let littleJumpRandomTime = (Math.random() * 5 + 3).toFixed(2)
