@@ -12,13 +12,13 @@ _If you want to read the origin of the debugging duck_: [Rubber duck debugging -
     yarn start OR npm start
     ```
 
-## Build App with electron-builder
+## Build App with electron-builder (slow, supports custom icon)
 
     ```bash
     yarn dist
     ```
 
-## Build App with Electron Forge
+## Build App with Electron Forge (fast, no custom icon)
 
     ```bash
     yarn make OR npm run make

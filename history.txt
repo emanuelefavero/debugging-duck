@@ -1,0 +1,3178 @@
+    1  ls
+    2  cd Desktop
+    3  ls
+    4  clear
+    5  exit
+    6  ls
+    7  clear
+    8  ls
+    9  ls
+   10  ls
+   11  cd ..
+   12  ls
+   13  cd Desktop
+   14  ls
+   15  python -v
+   16  ls
+   17  node --v
+   18  ls
+   19  cd Desktop/ls
+   20  cd ..
+   21  ls
+   22  cd
+   23  ls
+   24  ls
+   25  cd Downloads
+   26  ls
+   27  ls
+   28  ls
+   29  cd Downloads
+   30  ls
+   31  ls
+   32  ls
+   33  ls
+   34  zsh --version
+   35  curl
+   36  curl --v
+   37  curl --version
+   38  get --version
+   39  wget --version
+   40  git --version
+   41  sudo apt-get update
+   42  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   43  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\n
+   44  cd
+   45  vi .zshrc
+   46  echo "Hello"
+   47  cd
+   48  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting\n
+   49  vi .zshrc
+   50  ls -a
+   51  brew install vim
+   52  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   53  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/ef/.zprofile
+   54  eval "$(/opt/homebrew/bin/brew shellenv)"
+   55  brew help
+   56  brew install vim
+   57  ls -a
+   58  vim .vimrc
+   59  vim .zshrc
+   60  ls
+   61  vim .zshrc
+   62  vim .vimrc
+   63  Plug 'haishanh/night-owl.vim'
+   64  vim .vimrc
+   65  cd
+   66  ls
+   67  cd Downloads
+   68  git clone https://github.com/haishanh/night-owl.vim.git
+   69  ls
+   70  ls -a
+   71  cd .vim
+   72  mkdir .vim
+   73  cd .vim
+   74  mkdir colors
+   75  ls
+   76  cd colors
+   77  pwd
+   78  mv ./night-owl.vim /Users/ef/.vim/colors
+   79  ls
+   80  cd
+   81  vim .vimrc
+   82  ls
+   83  cd night-owl.vim
+   84  ls
+   85  cd colors
+   86  ls
+   87  mv ./night-owl.vim /Users/ef/.vim/colors
+   88  ls
+   89  cd ..
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd night-owl.vim
+   94  ls
+   95  cd colors
+   96  ls
+   97  cp night-owl.vim ~/
+   98  ls
+   99  cd
+  100  ls
+  101  cd .vim
+  102  ls
+  103  cd coloras
+  104  cd colors
+  105  ls
+  106  rm -rf night-owl.vim
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd ..
+  111  ls
+  112  mv night-owl.vim ./.vim/colors/
+  113  ls
+  114  cd ./vim
+  115  ls
+  116  cd ./.vim
+  117  ls
+  118  cd colors
+  119  ls
+  120  cd
+  121  vim .vimrc
+  122  vi .vimrc
+  123  vi .zshrc
+  124  ls -a
+  125  mkdir -p "$HOME/.zsh"
+  126  ls -a
+  127  git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
+  128  vim .zshrc
+  129  cd
+  130  touch .hushlogin
+  131  ls -a
+  132  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  133  source .zshrc
+  134  vi .zshrc
+  135  ls
+  136  nvm
+  137  nvm install node
+  138  nvm use node
+  139  node --v
+  140  node -v
+  141  npm -v
+  142  nvm -v
+  143  python --version
+  144  python3 --version
+  145  vi .zshrc
+  146  ls
+  147  cd Desktop
+  148  touch 0.py
+  149  vi 0.py
+  150  py 0.py
+  151  rm -rf 0.py
+  152  touch 0.js
+  153  vi 0.js
+  154  node 0.js
+  155  cd
+  156  npm install -g nodemon
+  157  cd Desktop
+  158  ls
+  159  nodemon 0
+  160  touch 1.py
+  161  vi 1.py
+  162  pymon 1.py
+  163  rm 1.py
+  164  rm 0.js
+  165  ls
+  166  cd
+  167  clear
+  168  ls -a
+  169  npm install -g typescript
+  170  vi .vimrc
+  171  ls
+  172  ls -a
+  173  ls
+  174  nodemon 0
+  175  /usr/local/bin/python3 -m pip install -U flake8
+  176  /usr/local/bin/python3 -m pip install -U black
+  177  pymon 1.py
+  178  ls
+  179  clear
+  180  brew install mongodb-community@6.0
+  181  xcode-select --install
+  182  brew tap mongodb/brew
+  183  brew update
+  184  brew install mongodb-community@6.0
+  185  brew services start mongodb-community@6.0
+  186  brew services list
+  187  mongod
+  188  mongosh
+  189  brew services list
+  190  brew services stop mongodb-community@6.0
+  191  brew services list
+  192  ls -a
+  193  npm i ts-node-dev --save-dev
+  194  ls
+  195  cat package.json
+  196  cd ..
+  197  ls
+  198  cd
+  199  ls -a
+  200  rm -rf node_modules
+  201  rm -rf package-lock.json
+  202  rm -rf package.json
+  203  ls
+  204  clear
+  205  ls
+  206  pwd
+  207  /Volumes/Audition\ 22.5\ U2B\ INSTALLER\ \[RiD\]/Install.app/Contents/MacOS/Install ; exit;
+  208  /Volumes/Photoshop\ 23.2.2\ U2B\ \[RiD\]/Install\ Photoshop_23.2.2-macuniversal-RiD.app/Contents/MacOS/applet ; exit;
+  209  /Volumes/Photoshop\ 23.2.2\ U2B\ \[RiD\]/patch.tool ; exit;
+  210  ls
+  211  pwd
+  212  ls
+  213  cd ..
+  214  ls
+  215  code .
+  216  ls
+  217  cd Desktop
+  218  ls
+  219  mkdir test
+  220  cd test
+  221  touch 0.js
+  222  vi 0.js
+  223  node 0.js
+  224  vi 0.js
+  225  node 0.js
+  226  clera
+  227  clear
+  228  vi 0.js
+  229  clear
+  230  node 0.js
+  231  vi 0.js
+  232  node 0.js
+  233  clear
+  234  ls
+  235  rm -rf 0.js
+  236  ls
+  237  cd ..
+  238  ls
+  239  rm -rf test
+  240  ls
+  241  clear
+  242  ls
+  243  pwd
+  244  brew install neofetch
+  245  neofetch
+  246  ls -a
+  247  cd .config
+  248  ls
+  249  cd neofetch
+  250  ls
+  251  vi config.conf
+  252  neofetch
+  253  vi config.conf
+  254  neofetch
+  255  source .zshrc
+  256  cd
+  257  source .zshrc
+  258  ls
+  259  npm run dev
+  260  npm i
+  261  npm run dev
+  262  ls
+  263  cd frontend
+  264  ls
+  265  npm i
+  266  cd ..
+  267  cd backend
+  268  ls
+  269  cd ..
+  270  ls
+  271  npm run dev
+  272  clear
+  273  ls
+  274  pwd
+  275  cd code
+  276  ls
+  277  ls -al
+  278  cd ..
+  279  ls
+  280  ;s
+  281  ls
+  282  clear
+  283  ls
+  284  pwd
+  285  ls
+  286  nodemon 0
+  287  clear
+  288  npx create-react-app video-scroll
+  289  ls
+  290  cd video-scroll
+  291  ls
+  292  npm start
+  293  npm i react-video-scroll
+  294  npm i react-video-scroll --force
+  295  npm start
+  296  cd ..
+  297  ls
+  298  cd ..
+  299  ls
+  300  rm -rf react-video-scroll
+  301  ls
+  302  cd ..
+  303  ls
+  304  rm sync-video-to-scroll
+  305  rm -rf react-video-scroll
+  306  rm -rf sync-video-to-scroll
+  307  mkdir apple-scroll-animation
+  308  cd apple-scroll-animation
+  309  nodemon 0
+  310  npm install typescript --save-dev
+  311  ls
+  312  rm -rf node_modules
+  313  rm -rf package.json package-lock.json
+  314  ls
+  315  npm install -g typescript
+  316  tsc 0.ts
+  317  tscmon 0.ts
+  318  tsc -w 0.ts
+  319  tsc -w test.ts
+  320  ls
+  321  npm i ts-node-dev --save-dev
+  322  ls
+  323  rm -rf node_modules
+  324  rm -rf package.json package-lock.json
+  325  npm i -g ts-node
+  326  nodemon test.ts
+  327  touch README.md
+  328  git init -y
+  329  git init
+  330  git add .
+  331  git commit -m "first commit"
+  332  git remote add origin https://github.com/emanuelefavero/apple-scroll-animation.git
+  333  git branch -M main
+  334  git push -u origin main
+  335  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  336  cargo --version
+  337  ls
+  338  mkdir test
+  339  cd test
+  340  touch test.rs
+  341  vi test.rs
+  342  cargo build
+  343  cargo run test.rs
+  344  cargo run
+  345  cargo run test.rs
+  346  rustc test.rs
+  347  ls
+  348  cd ..
+  349  ls
+  350  cd
+  351  cd Desktop/ls
+  352  cd /Users/ef/code/rust/src/test.rs
+  353  cd
+  354  cd /Users/ef/code/rust/src/test.rs
+  355  cd /Users/ef/code/rust/src/
+  356  ls
+  357  rustc test.rs
+  358  ./test
+  359  cargo new my_project
+  360  cd my_project
+  361  cargo init
+  362  clear
+  363  ls
+  364  cargo run
+  365  cd ..
+  366  ls
+  367  cd
+  368  cd /Users/ef/code/rust/src/
+  369  cargo run
+  370  whoami
+  371  $ whoami
+  372  clear
+  373  whoami
+  374  ls
+  375  cd Desktop
+  376  ls
+  377  mkdir test
+  378  cd test
+  379  ls
+  380  touch index.html
+  381  vi index.html
+  382  touch style.css
+  383  mkdir images
+  384  cd images
+  385  ls
+  386  cd ..
+  387  ls
+  388  rm ./*
+  389  ls
+  390  rm -rf images
+  391  ls
+  392  cd ..
+  393  ls
+  394  rm -rf images
+  395  ls
+  396  rm -rf test
+  397  ls
+  398  cd
+  399  mkdir test
+  400  cd test
+  401  touch test.txt
+  402  code .
+  403  ls
+  404  pwd
+  405  cat test.txt
+  406  echo "hello">>test.txt
+  407  cat test.txt
+  408  cd ..
+  409  ls
+  410  rm -rf test
+  411  ls
+  412  clear
+  413  cd
+  414  clear
+  415  ls -F
+  416  ls -f
+  417  ls -F
+  418  cd Desktop
+  419  ls
+  420  touch test.txt
+  421  ls -F
+  422  rm -rf test.txt
+  423  cd
+  424  ls
+  425  cd Documents
+  426  ls
+  427  ls *.txt
+  428  cd BOOKS
+  429  ls
+  430  cd Python
+  431  ls
+  432  ls *.pdf
+  433  clear
+  434  cd
+  435  wc --help
+  436  wc
+  437  ls
+  438  cd Documents
+  439  ls
+  440  cat creative-cloud-turn-off.txt
+  441  wc creative-cloud-turn-off.txt
+  442  cd
+  443  cd Desktop
+  444  ls
+  445  vi test.txt
+  446  wc test.txt
+  447  cat test.txt
+  448  ls
+  449  rm -rf test.txt
+  450  ls
+  451  clear
+  452  cd
+  453  ls
+  454  cd Documents/
+  455  ls
+  456  cd BOOKS
+  457  ls
+  458  wc *.pdf
+  459  ls
+  460  wc -l
+  461  dc C
+  462  ls
+  463  cd C
+  464  ls
+  465  wc -l
+  466  wc
+  467  wc The\ C\ Programming\ Language.pdf
+  468  wc The\ C\ Programming\ Language.pdf > lengths.txt
+  469  ls
+  470  cat lengths.txt
+  471  rm -rf lengths.txt
+  472  ls
+  473  cd ~/Desktop
+  474  ls
+  475  clear
+  476  ls
+  477  vi test.txt
+  478  cat test.txt >> ciao.txt
+  479  ls
+  480  cat ciao.txt
+  481  rm -rf ciao.txt
+  482  rm -rf test.txt
+  483  ls
+  484  clear
+  485  cd
+  486  vi nums.txt
+  487  cat nums.txt
+  488  ls
+  489  sort nums.txt
+  490  cat nums.txt
+  491  sort nums.txt >> nums.txt
+  492  cat nums.txt
+  493  rm -rf nums.txt
+  494  touch nums.txt
+  495  vi nums.txt
+  496  sort nums.txt >> sorted.txt
+  497  cat sorted.txt
+  498  sort -n nums.txt >> sorted-good.txt
+  499  cat sorted-good.txt
+  500  touch a.txt
+  501  vi a.txt
+  502  sort -n a.txt
+  503  ls
+  504  rm ./*.txt
+  505  ls
+  506  cd ~/Desktop
+  507  ls
+  508  echo hello > text.txt
+  509  ls
+  510  cat text.txt
+  511  echo hello >> text.txt
+  512  ls
+  513  cat text.txt
+  514  echo hello > text.txt
+  515  cat text.txt
+  516  echo ciao > text.txt
+  517  cat text.txt
+  518  echo bene >> text.txt
+  519  cat text.txt
+  520  head text.txt
+  521  tail text.txt
+  522  head -n 1 text.txt
+  523  tail -n 1 text.txt
+  524  cd ~/Desktop
+  525  ls
+  526  rm -rf text.txt
+  527  ls
+  528  clear
+  529  ls
+  530  pwd
+  531  ls
+  532  cd timeDifference
+  533  ls
+  534  nodemon script.js
+  535  ls
+  536  npx create-react-app frontend
+  537  ls
+  538  npm init -y
+  539  npm
+  540  npm list -g
+  541  npm i concurrently
+  542  pwd
+  543  ls
+  544  neofetch
+  545  clear
+  546  ls
+  547  ls -a
+  548  cd .config
+  549  ls
+  550  cd neofetch
+  551  ls
+  552  vi config.conf
+  553  neofetch
+  554  cd .config
+  555  cd neofetch
+  556  vi config.conf
+  557  neofetch
+  558  vi config.conf
+  559  neofetch
+  560  ls
+  561  neofetch
+  562  ls
+  563  cd Desktop
+  564  ls
+  565  cd last-dose
+  566  ls
+  567  cd frontend
+  568  la
+  569  ls
+  570  exit
+  571  nodemon 0
+  572  mkdir test
+  573  cd test
+  574  ls
+  575  npm init -y
+  576  npm i prompt
+  577  npm start
+  578  npm uninstall prompt
+  579  npm i prompt-sync
+  580  npm start
+  581  node 0.js
+  582  node index.js
+  583  nodemon 0.js
+  584  npm start
+  585  npm i colors
+  586  npm start
+  587  clear
+  588  npm start
+  589  npm i express
+  590  npm start
+  591  ls
+  592  neofetch
+  593  clear
+  594  ls
+  595  cd Desktop
+  596  ls
+  597  touch 0.js
+  598  vi 0.js
+  599  nodemon 0.js
+  600  ls
+  601  vi 0.js
+  602  nodemon 0.js
+  603  ls
+  604  cd Desktop
+  605  ls
+  606  nodemon 0.js
+  607  ls
+  608  vi 0.js
+  609  cd
+  610  vi .vimrc
+  611  ls
+  612  cd Desktop
+  613  ls
+  614  vi 0.js
+  615  vim --v
+  616  vim -v
+  617  vi 0.js
+  618  brew install w3m
+  619  brew outdated
+  620  w3m --help
+  621  w3m
+  622  w3m google.com
+  623  clear
+  624  w3m --v
+  625  w3m -v
+  626  clear
+  627  /Volumes/AntiCC/AntiCC.tool 
+  628  /Volumes/Premiere\ Pro\ 22.3\ U2B\ \[RiD\]\ 1/patch.tool ; exit;
+  629  cd /Library/Audio/Plug-Ins/Components
+  630  ls
+  631  sudo chmod -R 755 /Applications/Melodyne 5/Melodyne.app
+  632  cd
+  633  cd /Applications/Melodyne 5/
+  634  ls
+  635  cd Applications
+  636  ls
+  637  cd ..
+  638  ls
+  639  cd ..
+  640  ls
+  641  cd ..
+  642  ls
+  643  cd Applications
+  644  ls
+  645  cd Melodyne\ 5
+  646  ls
+  647  sudo chmod -R 755 Melodyne
+  648  ls
+  649  sudo chmod -R 755 Melodyne.app
+  650  cd ..
+  651  ls
+  652  sudo chmod -R 755 Melodyne\ 5
+  653  cd Melodyne\ 5
+  654  ls
+  655  xattr -cr Melodyne.app
+  656  ls
+  657  cd
+  658  cd /Library/Audio/Plug-Ins/Components/
+  659  ls
+  660  sudo chmod -R 755 Melodyne.component
+  661  xattr -cr Melodyne.component
+  662  cd
+  663  cd ..
+  664  ls
+  665  cd ..
+  666  ls
+  667  cd Library
+  668  ls
+  669  cd Application\ Support
+  670  ls
+  671  cd Celemony
+  672  ls
+  673  cd Bundles
+  674  ls
+  675  sudo chmod -R 755 MelodyneCore-5.1.1.003.sbb
+  676  xattr -cr MelodyneCore-5.1.1.003.sbb
+  677  cd
+  678  cd ..
+  679  ls
+  680  cd ..
+  681  ls
+  682  cd /Library/Audio/Plug-Ins/VST3/
+  683  ls
+  684  sudo chmod -R 755 Melodyne.vst3
+  685  xattr -cr Melodyne.vst3
+  686  ls
+  687  nodemon testLastDose.js
+  688  npm run client
+  689  ls
+  690  git check-ignore *
+  691  git init
+  692  git check-ignore *
+  693  git add .
+  694  ls
+  695  cd frontend
+  696  ls
+  697  ls -a
+  698  rm -rf .git
+  699  ls
+  700  cd ..
+  701  ls
+  702  ls -a
+  703  rm -rf .git
+  704  cd frontend
+  705  ls
+  706  cd ..
+  707  git init
+  708  ls
+  709  cd frontend
+  710  ls
+  711  cd ..
+  712  ls
+  713  git add .
+  714  git commit -m "first commit"
+  715  git remote add origin https://github.com/emanuelefavero/last-dose.git
+  716  git push -u origin main
+  717  ls -a
+  718  rm -rf .git
+  719  ls
+  720  cd frontend
+  721  ls
+  722  ls -a
+  723  cd ..
+  724  ls
+  725  git init -y
+  726  git init
+  727  git config --global init.defaultBranch main
+  728  ls -a
+  729  rm -rf .git
+  730  git init
+  731  clear
+  732  git add .
+  733  git commit -m "first commit"
+  734  git remote add origin https://github.com/emanuelefavero/last-dose.git
+  735  git branch -M main
+  736  git push -u origin main
+  737  ls
+  738  npm install firebase
+  739  npm uninstall firebase
+  740  ls
+  741  cd frontend
+  742  ls
+  743  npm i firebase
+  744  ls
+  745  cd src
+  746  ls
+  747  npm run client
+  748  cd ..
+  749  ls
+  750  npm run client
+  751  cd ..
+  752  ls
+  753  npm run client
+  754  node 0.js
+  755  npm run client
+  756  git add .
+  757  git commit -m "firestore db added"
+  758  git push -u origin main
+  759  npm run client
+  760  git add .
+  761  git commit -m "main styling done"
+  762  git push -u origin main
+  763  npm run client
+  764  ls
+  765  cd Desktop
+  766  ls
+  767  mkdir test
+  768  cd test
+  769  ls
+  770  touch 1.py
+  771  vi 1.py
+  772  pymon 1.py
+  773  vi 1.py
+  774  pymon 1.py
+  775  vi 1.py
+  776  py 1.py
+  777  vi 1.py
+  778  py 1.py
+  779  python3 1.py
+  780  py 1.py
+  781  pymon 1.py
+  782  vi 1.py
+  783  ls
+  784  rm -rf 1.py
+  785  ls
+  786  cd ..
+  787  ls
+  788  rm -rf test
+  789  ls
+  790  clear
+  791  git config --global init.defaultBranch main
+  792  git config --get user.name
+  793  git config --get user.email
+  794  ls
+  795  cd Desktop
+  796  ls
+  797  mkdir bookScript
+  798  cd bookScript
+  799  ls
+  800  touch script.txt
+  801  vi script.txt
+  802  cat script.txt
+  803  git init
+  804  git config --global color.ui auto
+  805  git add .
+  806  git commit -m "first commit"
+  807  ls
+  808  git
+  809  echo .DS_Store >> ~/.gitignore_global
+  810  git config --global core.excludesfile ~/.gitignore_global
+  811  ls ~/.ssh/id_ed25519.pub
+  812  ssh-keygen -t ed25519 -C emafaux89@gmail.com
+  813  cat /Users/ef/.ssh/id_ed25519
+  814  cd ~/.ssh
+  815  ls
+  816  cat id_ed25519.pub
+  817  ls -al ~/.shh
+  818  ls -al
+  819  ls -a
+  820  cd
+  821  ssh -T git@github.com
+  822  cd
+  823  ls
+  824  cd Desktop
+  825  ls
+  826  cd bookScript
+  827  ls
+  828  cd ..
+  829  ls
+  830  rm -rf bookScript
+  831  ls
+  832  clear
+  833  cd ..
+  834  ls
+  835  npm init -y
+  836  ls
+  837  npm run server
+  838  cd
+  839  npm install -g bower
+  840  bower --help
+  841  clear
+  842  nodemon crypto.js
+  843  npm i crypto-js
+  844  ls
+  845  rm -rf ./*
+  846  ls
+  847  cd ..
+  848  ls
+  849  npm run client
+  850  git add .
+  851  git commit -m "firebase re-added"
+  852  git push -u origin main
+  853  npm run client
+  854  npm start --prefix frontend
+  855  git add .
+  856  git commit -m "favicon, readme added, .txt removed"
+  857  git push -u origin main
+  858  npm run client
+  859  git add .
+  860  git commit -m "readme description added"
+  861  git push -u origin main
+  862  npm run client
+  863  ls
+  864  ls -a
+  865  rm -rf .DS_Store .git
+  866  ls
+  867  ls -a
+  868  ls
+  869  npm i
+  870  npm start
+  871  ls
+  872  npm run build
+  873  npm start
+  874  git add .
+  875  git init
+  876  git add .
+  877  git commit -m "first commit"
+  878  git remote add origin https://github.com/emanuelefavero/last-dose.git
+  879  git branch -M main
+  880  git push -u origin main
+  881  git commit -m "readme modified"
+  882  git add .
+  883  git commit -m "readme modified"
+  884  git push -u origin main
+  885  git add .
+  886  git commit -m "readme modified -2"
+  887  git push -u origin main
+  888  npm start
+  889  git add .
+  890  git commit -m "loading spinner added"
+  891  git push -u origin main
+  892  npm run build
+  893  ls
+  894  ls -l
+  895  npm start
+  896  /Users/ef/code/UDEMY-brad-react/MERN-support-desk 
+  897  ls
+  898  code .
+  899  ls
+  900  clear
+  901  ls
+  902  cd Desktop
+  903  ls
+  904  mkdir test
+  905  ls
+  906  cd test
+  907  ls
+  908  vi 0.js
+  909  nodemon 0.js
+  910  clera
+  911  clear
+  912  ls
+  913  cd ..
+  914  ls
+  915  rm -rf test
+  916  ls
+  917  clear
+  918  cd
+  919  ls
+  920  clear
+  921  ls
+  922  npm run dev
+  923  git log
+  924  npm run dev
+  925  npm i
+  926  npm run dev
+  927  ls
+  928  npm run dev
+  929  ls
+  930  cd backend
+  931  ls
+  932  cd ..
+  933  ls
+  934  cd frontend
+  935  ls
+  936  npm i
+  937  cd ..
+  938  ls
+  939  npm run dev
+  940  ls
+  941  npm run dev
+  942  ls
+  943  git init
+  944  git add .
+  945  git commit -m "app ready for deploy"
+  946  git remote add origin https://github.com/emanuelefavero/MERN-support-desk.git
+  947  git branch -M main
+  948  git push -u origin main
+  949  git add .
+  950  git commit -m "readme updated"
+  951  ls
+  952  ls -a
+  953  rm -rf .git
+  954  ls
+  955  cd frontend
+  956  ls
+  957  ls -a
+  958  cd ..
+  959  ls
+  960  git init
+  961  git add .
+  962  git commit -m "app ready for deploy"
+  963  git remote add origin https://github.com/emanuelefavero/MERN-support-desk.git
+  964  git branch -M main
+  965  git push -u origin main
+  966  ls
+  967  npm run dev
+  968  ls
+  969  cd ..
+  970  ls
+  971  cp -r MERN-support-desk MERN-support-desk-2
+  972  ls
+  973  cd MERN-support-desk-2
+  974  code .
+  975  npm run dev
+  976  ls
+  977  ls -a
+  978  rm -rf node_modules
+  979  ls
+  980  cd frontend
+  981  ls
+  982  rm -rf node_modules
+  983  npm i
+  984  cd ..
+  985  ls
+  986  npm i
+  987  npm run dev
+  988  cd ..
+  989  ls
+  990  cd MERN-support-desk
+  991  code .
+  992  ls
+  993  cd frontend
+  994  npm run build
+  995  git add .
+  996  git commit -m "app configured for vercel deployment"
+  997  git push -u origin main
+  998  cd ..
+  999  ls
+ 1000  git add .
+ 1001  ls
+ 1002  git commit -m "app configured for vercel deployment"
+ 1003  git push -u origin main
+ 1004  cd frontend
+ 1005  ls
+ 1006  cd ..
+ 1007  ls
+ 1008  cd frontend
+ 1009  ls
+ 1010  npm run build
+ 1011  cd ..
+ 1012  ls
+ 1013  git add .
+ 1014  git commit -m "updated homepage on frontend package.json"
+ 1015  git push -u origin main
+ 1016  ls
+ 1017  cd ..
+ 1018  rm -rf MERN-support-desk
+ 1019  ls
+ 1020  npm run dev
+ 1021  git init
+ 1022  git add .
+ 1023  git commit -m "app ready for deployment"
+ 1024  ls
+ 1025  cd frontend
+ 1026  ls
+ 1027  ls -a
+ 1028  cd ..
+ 1029  ls
+ 1030  ls -a
+ 1031  rm -rf .git
+ 1032  npm run dev
+ 1033  git init
+ 1034  git add .
+ 1035  git commit -m "app ready for deployment"
+ 1036  git remote add origin https://github.com/emanuelefavero/MERN-support-desk.git
+ 1037  git branch -M main
+ 1038  git push -u origin main
+ 1039  ls
+ 1040  cd code
+ 1041  lsd
+ 1042  ls
+ 1043  cd UDEMY-brad-react
+ 1044  ls
+ 1045  cd MERN-support-desk
+ 1046  ls
+ 1047  rm -rf node_modules
+ 1048  ls
+ 1049  cd backend
+ 1050  ls
+ 1051  cd ..
+ 1052  ls
+ 1053  cd frontend
+ 1054  ls
+ 1055  rm -rf node_modules
+ 1056  ls
+ 1057  cd ..
+ 1058  ls
+ 1059  ls -a
+ 1060  npm install --global yarn
+ 1061  yarn --version
+ 1062  clear
+ 1063  ls
+ 1064  cd Desktop
+ 1065  ls
+ 1066  git clone https://github.com/emanuelefavero/MERN-support-desk.git
+ 1067  ls
+ 1068  cd MERN-support-desk
+ 1069  code .
+ 1070  ls
+ 1071  cd Desktop
+ 1072  ls
+ 1073  npx create-react-app react-modal
+ 1074  ls
+ 1075  cd react-modal
+ 1076  ls
+ 1077  code .
+ 1078  npm start
+ 1079  npm install react-modal
+ 1080  npm start
+ 1081  ls
+ 1082  git init
+ 1083  npm start
+ 1084  git init
+ 1085  git add .
+ 1086  git commit -m "first commit"
+ 1087  git remote add origin https://github.com/emanuelefavero/react-modal.git
+ 1088  git branch -M main
+ 1089  git push -u origin main
+ 1090  ls
+ 1091  cd Desktop
+ 1092  ls
+ 1093  cd the-odin-project
+ 1094  ls
+ 1095  git clone git@github.com:emanuelefavero/test-github-ssh.git
+ 1096  ls
+ 1097  cd test-github-ssh
+ 1098  ls
+ 1099  git remote -v
+ 1100  ls
+ 1101  cd ..
+ 1102  ls
+ 1103  rm -rf test-github-ssh
+ 1104  ls
+ 1105  git clone git@github.com:emanuelefavero/odin-test.git
+ 1106  ls
+ 1107  cd odin-test
+ 1108  ls
+ 1109  touch hello.txt
+ 1110  echo "hello world">> hello.txt
+ 1111  cat hello.txt
+ 1112  clear
+ 1113  ls
+ 1114  git status
+ 1115  git add hello.txt
+ 1116  git status
+ 1117  git commit -m "add hello.txt"
+ 1118  git status
+ 1119  git log
+ 1120  code .
+ 1121  clear
+ 1122  ls
+ 1123  git add .
+ 1124  ls
+ 1125  git commit -m "add README.md"
+ 1126  git status
+ 1127  git log
+ 1128  ls
+ 1129  git status
+ 1130  git add .
+ 1131  git status
+ 1132  git log
+ 1133  git commit -m "edit hello.txt"
+ 1134  git status
+ 1135  git log
+ 1136  touch .gitignore
+ 1137  git add .
+ 1138  git commit -m "add .gitignore"
+ 1139  git log
+ 1140  git push
+ 1141  ls
+ 1142  git rm README.md
+ 1143  git push
+ 1144  ls
+ 1145  git add .
+ 1146  git commit -m "README.md removed"
+ 1147  git push
+ 1148  touch README.md
+ 1149  ls
+ 1150  cd ..
+ 1151  ls
+ 1152  cd ..
+ 1153  ls
+ 1154  mkdir markdown-cheatsheet
+ 1155  ls
+ 1156  cd markdown-cheatsheet
+ 1157  ls
+ 1158  git init
+ 1159  touch README.md
+ 1160  code .
+ 1161  ls
+ 1162  git init
+ 1163  git add .
+ 1164  git commit -m "first commit"
+ 1165  git remote add origin git@github.com:emanuelefavero/markdown-cheatsheet.git
+ 1166  git branch -M main
+ 1167  git push
+ 1168  git push -u origin main
+ 1169  cd ..
+ 1170  ls
+ 1171  cd the-odin-project
+ 1172  ls
+ 1173  code .
+ 1174  ls
+ 1175  cd odin-test
+ 1176  code .
+ 1177  ls
+ 1178  git add .
+ 1179  git push -u origin main
+ 1180  ls
+ 1181  cd ..
+ 1182  ls
+ 1183  rm -rf odin-test
+ 1184  mkdir odin-test
+ 1185  cd odin-test
+ 1186  git clone git@github.com:emanuelefavero/odin-test.git
+ 1187  ls
+ 1188  cd odin-test
+ 1189  ls
+ 1190  cd ..
+ 1191  ls
+ 1192  cd ..
+ 1193  ls
+ 1194  rm -rf odin-test
+ 1195  git clone git@github.com:emanuelefavero/odin-test.git
+ 1196  ls
+ 1197  cd odin-test
+ 1198  ls
+ 1199  ls -a
+ 1200  clear
+ 1201  ls
+ 1202  cd ..
+ 1203  ls
+ 1204  rm -rf odin-test
+ 1205  git clone https://github.com/emanuelefavero/odin-test.git
+ 1206  ls
+ 1207  cd odin-test
+ 1208  ls
+ 1209  cd ..
+ 1210  ls
+ 1211  cd odin-test
+ 1212  ls
+ 1213  git add .
+ 1214  git commit -m "add README.md back"
+ 1215  git push -u origin main
+ 1216  ls
+ 1217  brew intall gh
+ 1218  brew install gh
+ 1219  gh --version
+ 1220  gh help
+ 1221  ls
+ 1222  gh browse
+ 1223  gh auth login
+ 1224  ls
+ 1225  gh browse
+ 1226  cd ..
+ 1227  ls
+ 1228  cd ..
+ 1229  ls
+ 1230  mkdir github-cli
+ 1231  ls
+ 1232  cd github-cli
+ 1233  ls
+ 1234  touch HOW-TO-gh.txt
+ 1235  code .
+ 1236  ls
+ 1237  cd ..
+ 1238  ls
+ 1239  cd the-odin-project
+ 1240  ls
+ 1241  cd odin-test
+ 1242  ls
+ 1243  gh browse hello.txt:1
+ 1244  ls
+ 1245  cd
+ 1246  ls
+ 1247  cd code
+ 1248  ls
+ 1249  cd UDEMY-brad-react
+ 1250  ls
+ 1251  cd MERN-support-desk
+ 1252  ls
+ 1253  cd frontend
+ 1254  ls
+ 1255  cd src
+ 1256  ls
+ 1257  cat App.js
+ 1258  vi App.js
+ 1259  gh browse App.js:41
+ 1260  cd
+ 1261  ls
+ 1262  cd code
+ 1263  ls
+ 1264  cd UDEMY-brad-react
+ 1265  cd MERN-support-desk
+ 1266  ls
+ 1267  code .
+ 1268  cd ..
+ 1269  ls
+ 1270  cd
+ 1271  ls
+ 1272  cd Desktop
+ 1273  ls
+ 1274  cd the-odin-project
+ 1275  ls
+ 1276  cd odin-test
+ 1277  ls
+ 1278  code .
+ 1279  neofetch
+ 1280  ls
+ 1281  cd ..
+ 1282  ls
+ 1283  cd odin-test
+ 1284  ls
+ 1285  cd ..
+ 1286  ls
+ 1287  git clone https://github.com/emanuelefavero/odin-test.git
+ 1288  ls
+ 1289  cd test-2
+ 1290  mkdir test-2
+ 1291  ls
+ 1292  rm -rf test-2
+ 1293  ls
+ 1294  mkdir test-commits
+ 1295  ls
+ 1296  cd test-commits
+ 1297  cd ..
+ 1298  ls
+ 1299  rm -rf test-commits
+ 1300  mkdir clone-commit
+ 1301  ls
+ 1302  cd clone-commit
+ 1303  ls
+ 1304  git clone https://github.com/emanuelefavero/odin-test.git
+ 1305  ls
+ 1306  cd odin-test
+ 1307  ls
+ 1308  code .
+ 1309  git checkout 0c91fd5d58d8cd1a1b6036b0a2057c9ab4e9e19f
+ 1310  ls
+ 1311  cd ..
+ 1312  ls
+ 1313  cd ..
+ 1314  ls
+ 1315  rm -rf clone-commit
+ 1316  ls
+ 1317  cd ..
+ 1318  ls
+ 1319  cd
+ 1320  ls
+ 1321  cd Desktop
+ 1322  ls
+ 1323  cd the-odin-project
+ 1324  ls
+ 1325  cd odin-test
+ 1326  ls
+ 1327  clera
+ 1328  clear
+ 1329  git log --oneline -5 --author emanuelefavero --before "Mar 26 2021"
+ 1330  git log --oneline -5 --author emanuelefavero --before "Mar 26 2022"
+ 1331  git log --oneline -5 --author emanuelefavero
+ 1332  git log
+ 1333  git blame
+ 1334  git blame --incremental
+ 1335  git blame --incremental hello.txt
+ 1336  git config --global core.editor "code --wait"
+ 1337  git add .
+ 1338  git commit
+ 1339  git push -u origin main
+ 1340  ls
+ 1341  gh browse hello.txt
+ 1342  git stash view
+ 1343  git diff
+ 1344  git diff 95f47e23b6b9911ee9301fe5df6a95571b0021bc 0c9a3029112710420c969c5d6c8c9f763a25ad95
+ 1345  ls
+ 1346  cd
+ 1347  cd code
+ 1348  ls
+ 1349  cd FULLSTACK
+ 1350  ls
+ 1351  cd last-dose
+ 1352  ls
+ 1353  code .
+ 1354  cd Desktop
+ 1355  ls
+ 1356  mkdir test
+ 1357  cd test
+ 1358  ls
+ 1359  git clone https://github.com/emanuelefavero/react-feedback-app.git
+ 1360  ls
+ 1361  cd react-feedback-app
+ 1362  ls
+ 1363  code .
+ 1364  ls
+ 1365  cd ..
+ 1366  ls
+ 1367  cd ..
+ 1368  ls
+ 1369  rm -rf test
+ 1370  ls
+ 1371  cd code
+ 1372  ls
+ 1373  cd UDEMY-brad-react
+ 1374  ls
+ 1375  cd house-marketplace
+ 1376  ls
+ 1377  cd ..
+ 1378  ls
+ 1379  cd house-marketplace-2
+ 1380  ls
+ 1381  cd ..
+ 1382  ls
+ 1383  cd react-feedback-app
+ 1384  ls
+ 1385  cd feedback-app
+ 1386  ls
+ 1387  code .
+ 1388  cd Desktop
+ 1389  ls
+ 1390  cd the-odin-project
+ 1391  ls
+ 1392  cd odin-test
+ 1393  code .
+ 1394  git diff 95f47e23b6b9911ee9301fe5df6a95571b0021bc 0c9a3029112710420c969c5d6c8c9f763a25ad95
+ 1395  git diff 95f47e23b6b9911ee9301fe5df6a95571b0021bc 0c91fd5d58d8cd1a1b6036b0a2057c9ab4e9e19f
+ 1396  git log --oneline
+ 1397  git commit --amend
+ 1398  git add .
+ 1399  git commit -m "bad commit"
+ 1400  git revert
+ 1401  git revert HEAD
+ 1402  git revert be549e666398ba2a98f41837ae53f63a78f60e35
+ 1403  git pull
+ 1404  git revert be549e666398ba2a98f41837ae53f63a78f60e35
+ 1405  ls
+ 1406  cd ..
+ 1407  ls
+ 1408  git clone https://github.com/emanuelefavero/odin-recipes.git
+ 1409  ls
+ 1410  cd odin-test
+ 1411  git remote add origin https://github.com/emanuelefavero/odin-recipes.git
+ 1412  git branch -M main
+ 1413  git pull
+ 1414  touch README.md
+ 1415  code .
+ 1416  ls
+ 1417  cd ..
+ 1418  ls
+ 1419  cd odin-test
+ 1420  cd ..
+ 1421  ls
+ 1422  cd odin-recipes
+ 1423  code .
+ 1424  ls
+ 1425  git pull
+ 1426  touch README.md
+ 1427  git add .
+ 1428  git commit -m "add README.md file"
+ 1429  git push -u origin main
+ 1430  touch index.html
+ 1431  git commit -m "Add index.html boilerplate"
+ 1432  git add .
+ 1433  git commit -m "Add index.html boilerplate"
+ 1434  git push -u origin main
+ 1435  ls
+ 1436  mkdir recipes
+ 1437  git add .
+ 1438  git commit
+ 1439  git push -u origin main
+ 1440  git add .
+ 1441  git commit -m "Add French Toast recipe HTML"
+ 1442  git push -u origin main
+ 1443  git add .
+ 1444  git commit -m "Add Pancakes and Waffles recipes in HTML"
+ 1445  git push -u origin main
+ 1446  git add .
+ 1447  git commit -m "Add return to top button on recipes HTML"
+ 1448  git push -u origin main
+ 1449  git add .
+ 1450  git commit -m "Add img on index.html"
+ 1451  git push -u origin main
+ 1452  cd ..
+ 1453  ls
+ 1454  rm -rf odin-recipes
+ 1455  git clone https://github.com/emanuelefavero/odin-recipes.git
+ 1456  ls
+ 1457  cd odin-recipes
+ 1458  cd ..
+ 1459  ls
+ 1460  mv -r odin-recipes odin-recipes-css
+ 1461  mv odin-recipes odin-recipes-css
+ 1462  ls
+ 1463  cd odin-recipes-css
+ 1464  ls
+ 1465  code .
+ 1466  cd Desktop
+ 1467  ls
+ 1468  cd the-odin-project
+ 1469  ls
+ 1470  cd odin-recipes-css
+ 1471  ls
+ 1472  coed .
+ 1473  code .
+ 1474  ls
+ 1475  ls -a
+ 1476  git push https://github.com/emanuelefavero/odin-recipes-css.git +old_branch:main
+ 1477  git log
+ 1478  git status
+ 1479  git push https://github.com/emanuelefavero/odin-recipes-css.git +main:main
+ 1480  ls
+ 1481  git add .
+ 1482  git commit -m "Add css styling"
+ 1483  git push -u origin main
+ 1484  rm -rf .git
+ 1485  git init
+ 1486  git add .
+ 1487  git commit -m "first commit"
+ 1488  git push -u origin main
+ 1489  git remote add origin https://github.com/emanuelefavero/odin-recipes-css.git
+ 1490  git branch -M main
+ 1491  git push -u origin main
+ 1492  git add .
+ 1493  git commit -m "Add footer and comments"
+ 1494  git push -u origin main
+ 1495  git add .
+ 1496  git commit -m "Add favicon and index.html description meta tag"
+ 1497  git push -u origin main
+ 1498  git status
+ 1499  git log
+ 1500  git add .
+ 1501  git commit -m "Fix .back-button background color in style.css"
+ 1502  git push -u origin main
+ 1503  ls
+ 1504  cd ..
+ 1505  ls
+ 1506  cd ..
+ 1507  ls
+ 1508  git clone git@github.com:emanuelefavero/excavatorCSSAnimation.git
+ 1509  ls
+ 1510  cd excavatorCSSAnimation
+ 1511  ls
+ 1512  code .
+ 1513  ls
+ 1514  cd ..
+ 1515  ls
+ 1516  rm -rf excavatorCSSAnimation
+ 1517  ls
+ 1518  cd Desktop
+ 1519  ls
+ 1520  mkdir css-scale-translate-rotate
+ 1521  cd css-scale-translate-rotate
+ 1522  ls
+ 1523  code .
+ 1524  cd ..
+ 1525  ls
+ 1526  mv css-scale-translate-rotate css
+ 1527  ls
+ 1528  cd css
+ 1529  ls
+ 1530  touch README.md
+ 1531  code .
+ 1532  ls
+ 1533  git init
+ 1534  git add .
+ 1535  git commit -m "Add rotate scale translate properties features"
+ 1536  git remote add origin git@github.com:emanuelefavero/css.git
+ 1537  git branch -M main
+ 1538  git push -u origin main
+ 1539  cd ..
+ 1540  ls
+ 1541  cd ..
+ 1542  ls
+ 1543  clear
+ 1544  ls
+ 1545  cd Desktop
+ 1546  ls
+ 1547  cd css
+ 1548  cd ..
+ 1549  ls
+ 1550  git clone https://github.com/emanuelefavero/css.git
+ 1551  ls
+ 1552  cd css
+ 1553  ls
+ 1554  cd ..
+ 1555  ls
+ 1556  rm -rf css
+ 1557  ls
+ 1558  cd Desktop
+ 1559  ls
+ 1560  git clone https://github.com/emanuelefavero/css.git
+ 1561  cd css
+ 1562  ls
+ 1563  code .
+ 1564  ls
+ 1565  code .
+ 1566  ls
+ 1567  git clone https://github.com/emanuelefavero/css.git
+ 1568  ls
+ 1569  mv hover-link-gradient.html css/
+ 1570  ls
+ 1571  cd css
+ 1572  ls
+ 1573  git add .
+ 1574  git status
+ 1575  git commit -m "Add link hover effect: gradient underline on hover"
+ 1576  git push -u origin main
+ 1577  ls
+ 1578  git add .
+ 1579  git commit -m "Update README.md"
+ 1580  git push -u origin main
+ 1581  ls
+ 1582  git add .
+ 1583  git commit -m "Update README.md"
+ 1584  git status
+ 1585  git log
+ 1586  git reset --hard HEAD^
+ 1587  ls
+ 1588  git status
+ 1589  git log
+ 1590  git add .
+ 1591  git commit -m "Add link hover effect: translate transition"
+ 1592  git push -u origin main
+ 1593  git add .
+ 1594  git status
+ 1595  git log
+ 1596  git add .
+ 1597  git commit -m "Update README.md"
+ 1598  git push -u origin main
+ 1599  ls
+ 1600  pwd
+ 1601  cd Desktop
+ 1602  ls
+ 1603  cd the-odin-project
+ 1604  ls
+ 1605  cd odin-recipes-css
+ 1606  ls
+ 1607  pwd
+ 1608  ls
+ 1609  cd Desktop
+ 1610  ls
+ 1611  cd the-odin-project
+ 1612  ls
+ 1613  code .
+ 1614  ls
+ 1615  cd odin-recipes-css
+ 1616  ls
+ 1617  git add .
+ 1618  git commit -m "Update --link-color for AA contrast accessibility"
+ 1619  git push -u origin main
+ 1620  cd ..
+ 1621  lsa
+ 1622  ls
+ 1623  touch console-trace.js
+ 1624  ls
+ 1625  nodemon console-trace.js
+ 1626  mkdir js
+ 1627  mv console-trace.js js/
+ 1628  ls
+ 1629  cd js
+ 1630  ls
+ 1631  touch README.md
+ 1632  ls
+ 1633  git remote add origin git@github.com:emanuelefavero/js.git
+ 1634  ls
+ 1635  cd ..
+ 1636  ls
+ 1637  mkdir js
+ 1638  cd js
+ 1639  ls
+ 1640  touch debugger.html
+ 1641  ls
+ 1642  git init
+ 1643  git remote add origin git@github.com:emanuelefavero/js.git
+ 1644  git add .
+ 1645  git commit -m "Add debugger statement"
+ 1646  ls
+ 1647  git push -u origin main
+ 1648  git pull
+ 1649  ls
+ 1650  git pull https://github.com/emanuelefavero/js
+ 1651  ls
+ 1652  cd ..
+ 1653  ls
+ 1654  rm -rf js
+ 1655  ls
+ 1656  git clone https://github.com/emanuelefavero/js.git
+ 1657  ls
+ 1658  mv debugger.html js/
+ 1659  ls
+ 1660  cd js
+ 1661  ls
+ 1662  git add .
+ 1663  git commit -m "Add debugger statement"
+ 1664  git push -u origin main
+ 1665  ls
+ 1666  cd ..
+ 1667  ls
+ 1668  mkdir flex
+ 1669  cd flex
+ 1670  ls
+ 1671  touch flex.html
+ 1672  ls
+ 1673  cd ..
+ 1674  ls
+ 1675  git clone https://github.com/emanuelefavero/css.git
+ 1676  ls
+ 1677  cd css
+ 1678  ls
+ 1679  git add .
+ 1680  git commit -m "Add flex shorthand"
+ 1681  git push -u origin main
+ 1682  ls
+ 1683  cd ..
+ 1684  rm -rf css
+ 1685  ls
+ 1686  rm rf js
+ 1687  rm -rf js
+ 1688  ls
+ 1689  rm -rf flex
+ 1690  ls
+ 1691  cd odin-landing-page
+ 1692  ls
+ 1693  touch index.html
+ 1694  code .
+ 1695  ls
+ 1696  git init
+ 1697  git add .
+ 1698  git commit -m "First commit"
+ 1699  touch README.md
+ 1700  git add .
+ 1701  git commit -m "Add README.md"
+ 1702  git remote add https://github.com/emanuelefavero/odin-landing-page.git
+ 1703  git remote add origin https://github.com/emanuelefavero/odin-landing-page.git
+ 1704  git branch -M main
+ 1705  git push -u origin main
+ 1706  ls
+ 1707  git add .
+ 1708  git commit -m "Add header and hero"
+ 1709  git push -u origin main
+ 1710  git add .
+ 1711  git commit -m "Add info and quote sections"
+ 1712  git push -u origin main
+ 1713  git add .
+ 1714  git commit -m "Add call to actions section"
+ 1715  git push -u origin main
+ 1716  git add .
+ 1717  git commit -m "Add footer"
+ 1718  git push -u origin main
+ 1719  git add .
+ 1720  git commit -m "Add dark body backround color"
+ 1721  git push -u origin main
+ 1722  git add .
+ 1723  git commit -m "Add css media queries and fix responsive design down to <= 250 pixels"
+ 1724  git push -u origin main
+ 1725  ls
+ 1726  git add .
+ 1727  git status
+ 1728  git log
+ 1729  ls
+ 1730  git add .
+ 1731  git commit -m "Add favicon"
+ 1732  git push -u origin main
+ 1733  clear
+ 1734  /Users/ef/Desktop/backend-hosting 
+ 1735  code .
+ 1736  ls
+ 1737  npm init -y
+ 1738  npm start
+ 1739  npm i express
+ 1740  touch .gitignore
+ 1741  node app.js
+ 1742  npm start
+ 1743  node server.js
+ 1744  nodemon server.js
+ 1745  npm start
+ 1746  git init
+ 1747  git add .
+ 1748  git commit -m "first commit"
+ 1749  git remote add origin https://github.com/emanuelefavero/backend-hosting.git
+ 1750  git branch -M main
+ 1751  git push -u origin main
+ 1752  touch README.md
+ 1753  git add .
+ 1754  git commit -m "add README.md"
+ 1755  git push -u origin main
+ 1756  git add .
+ 1757  git commit -m "add date in README.md"
+ 1758  git push -u origin main
+ 1759  ls
+ 1760  cd Desktop
+ 1761  ls
+ 1762  mkdir command-line
+ 1763  ls
+ 1764  cd command-line
+ 1765  ls
+ 1766  touch command-line.txt
+ 1767  vi command-line.txt
+ 1768  ls
+ 1769  rm command-line.txt
+ 1770  ls
+ 1771  git clone https://gist.github.com/cc180de0edee05075a6139e42d5f28ce.git
+ 1772  ls
+ 1773  cd cc180de0edee05075a6139e42d5f28ce
+ 1774  ls
+ 1775  cp -r terminal-commands.md ../
+ 1776  ls
+ 1777  cd ..
+ 1778  ls
+ 1779  rm -rf cc180de0edee05075a6139e42d5f28ce
+ 1780  ls
+ 1781  cat terminal-commands.md
+ 1782  vi terminal-commands.md
+ 1783  ls
+ 1784  clear
+ 1785  which $SHELL
+ 1786  whomai
+ 1787  whoami
+ 1788  clear
+ 1789  ls
+ 1790  clear
+ 1791  ls
+ 1792  cat terminal-commands.md
+ 1793  echo "clear shortcut: ctrl + l">>clear-shortcut.txt
+ 1794  cat clear-shortcut.txt
+ 1795  ls
+ 1796  cat terminal-commands.md
+ 1797  ls
+ 1798  rm clear-shortcut.txt
+ 1799  ls
+ 1800  clear
+ 1801  cat terminal-commands.md
+ 1802  man touch
+ 1803  man ls
+ 1804  ls
+ 1805  cd Desktop
+ 1806  ls
+ 1807  whoami
+ 1808  date
+ 1809  pwd
+ 1810  ls
+ 1811  date
+ 1812  pwd
+ 1813  ls /Users/ef
+ 1814  cd
+ 1815  ls
+ 1816  ls Desktop
+ 1817  clear
+ 1818  cd
+ 1819  ls -a
+ 1820  ls -l
+ 1821  ls -al
+ 1822  ls -ar
+ 1823  ls -ar1
+ 1824  cd ~
+ 1825  cd Downloads
+ 1826  ls
+ 1827  cd ..
+ 1828  cd /
+ 1829  ls
+ 1830  cd Applications
+ 1831  ls
+ 1832  cd ..
+ 1833  ls
+ 1834  cd Library
+ 1835  ls
+ 1836  cd ..
+ 1837  ls
+ 1838  cd System
+ 1839  ls
+ 1840  cd ..
+ 1841  ls
+ 1842  cd Volumes
+ 1843  ls
+ 1844  cd ..
+ 1845  ls
+ 1846  cd bin
+ 1847  ls
+ 1848  ls -1
+ 1849  cd ..
+ 1850  ls
+ 1851  cd cores
+ 1852  ls
+ 1853  cd ..
+ 1854  ls
+ 1855  cd dev
+ 1856  ls
+ 1857  cd
+ 1858  cd -
+ 1859  cd
+ 1860  clear
+ 1861  cd Desktop
+ 1862  ls
+ 1863  cd -
+ 1864  clear
+ 1865  open Downloads
+ 1866  open Desktop
+ 1867  open https://github.com/emanuelefavero
+ 1868  ls
+ 1869  cd Desktop
+ 1870  ls
+ 1871  cd command-line
+ 1872  ls
+ 1873  mkdir myproject
+ 1874  cd myproject
+ 1875  ls
+ 1876  touch index.html
+ 1877  ls
+ 1878  touch file1.txt file2.txt
+ 1879  ls
+ 1880  rm file2.txt
+ 1881  ls
+ 1882  rm -i file1.txt
+ 1883  ls
+ 1884  clear
+ 1885  ls
+ 1886  mkdir dir1
+ 1887  ls
+ 1888  rm -r dir1
+ 1889  ls
+ 1890  mkdir dir1
+ 1891  ls
+ 1892  rm -rf dir1
+ 1893  ls
+ 1894  touch file1.txt
+ 1895  ls
+ 1896  mkdir source
+ 1897  ls
+ 1898  cp file1.txt source
+ 1899  ls
+ 1900  cd source
+ 1901  ls
+ 1902  cd ..
+ 1903  ls
+ 1904  clear
+ 1905  ls
+ 1906  rm file1.txt
+ 1907  ls
+ 1908  mv index.html source/index2.html
+ 1909  ls
+ 1910  cd source
+ 1911  ls
+ 1912  mv index2.html index.html
+ 1913  ;s
+ 1914  ls
+ 1915  cd ..
+ 1916  ls
+ 1917  mv source src
+ 1918  ls
+ 1919  ls src
+ 1920  ls
+ 1921  clear
+ 1922  ls
+ 1923  ls src
+ 1924  mv src/file1.txt ../info.txt
+ 1925  ls
+ 1926  cd ..
+ 1927  ls
+ 1928  mv info.txt
+ 1929  mv info.txt myproject
+ 1930  ls
+ 1931  cd myproject
+ 1932  ls
+ 1933  mv info.txt src/file1.txt
+ 1934  ls
+ 1935  cd src
+ 1936  ls
+ 1937  clear
+ 1938  ls
+ 1939  cd ..
+ 1940  ls
+ 1941  mv src/file1.txt info.txt
+ 1942  ls
+ 1943  open info.txt
+ 1944  ls
+ 1945  cd src
+ 1946  ls
+ 1947  code index.html
+ 1948  ls
+ 1949  cat index.html
+ 1950  cat > info.txt
+ 1951  ls
+ 1952  cat info.txt
+ 1953  cat > info.txt
+ 1954  ls
+ 1955  cat info.txt
+ 1956  vi info.txt
+ 1957  cat info.txt
+ 1958  open info.txt
+ 1959  > info.txt
+ 1960  cat info.txt
+ 1961  open info.txt
+ 1962  vi info.txt
+ 1963  cat info.txt
+ 1964  clear
+ 1965  pwd
+ 1966  cat >> info.txt
+ 1967  cat info.txt
+ 1968  vi info.txt
+ 1969  cat info.txt
+ 1970  cat -n info.txt
+ 1971  code info.txt
+ 1972  cat -n info.txt
+ 1973  less info.txt
+ 1974  head info.txt
+ 1975  head -n 5 info.txt
+ 1976  tail -n 5 info.txt
+ 1977  clear
+ 1978  nano info.txt
+ 1979  cat info.txt
+ 1980  vi info.txt
+ 1981  clear
+ 1982  ls
+ 1983  echo "Hello"
+ 1984  clear
+ 1985  echo "Hello World" > info2.txt
+ 1986  ls
+ 1987  less info2.txt
+ 1988  cat info2.txt
+ 1989  grep "Line 22" info.txt
+ 1990  grep "Line" info.txt
+ 1991  grep "*" info.txt
+ 1992  grep * info.txt
+ 1993  ls
+ 1994  grep "Line *" info.txt
+ 1995  mkdir files
+ 1996  ls
+ 1997  cd files
+ 1998  ls
+ 1999  touch file-{001..100}.txt
+ 2000  ls
+ 2001  ls -1
+ 2002  find . -name "file-002.txt"
+ 2003  find . -name "file-0*.txt"
+ 2004  find . -name "file-00*.txt"
+ 2005  find . empty
+ 2006  find . -empty
+ 2007  echo "hello" >> file-004.txt
+ 2008  find . -empty
+ 2009  find . -name "file-*" -delete
+ 2010  ls
+ 2011  touch file-{001..010}.txt
+ 2012  ls
+ 2013  find . -name "file-*" > output.txt
+ 2014  cat output.txt
+ 2015  ln -s ~/Downloads dlds
+ 2016  ls
+ 2017  rm -rf ./*.txt
+ 2018  ls
+ 2019  cd dlds
+ 2020  ls
+ 2021  cd ..
+ 2022  ls
+ 2023  rm dlds
+ 2024  ls
+ 2025  ln -s ~/Desktop desktop-sim-link
+ 2026  ls
+ 2027  cd desktop-sim-link
+ 2028  ls
+ 2029  cd backend-hosting
+ 2030  ls
+ 2031  cd ..
+ 2032  ls
+ 2033  cd ..
+ 2034  ls
+ 2035  rm desktop-sim-link
+ 2036  ls
+ 2037  man nice
+ 2038  ls
+ 2039  cd ..
+ 2040  ls
+ 2041  rm files
+ 2042  ls
+ 2043  cd ..
+ 2044  ls
+ 2045  tar -czvf source.tar.gz src
+ 2046  ls
+ 2047  cd src
+ 2048  ls
+ 2049  cd ..
+ 2050  ls
+ 2051  tar -tzvf source.tar.gz
+ 2052  mkdir test
+ 2053  cd test
+ 2054  tar -xzvf ../source.tar.gz
+ 2055  ls
+ 2056  rm -rf src
+ 2057  ls
+ 2058  cd ..
+ 2059  ls
+ 2060  rm test
+ 2061  rmdir test
+ 2062  ls
+ 2063  history
+ 2064  ls
+ 2065  clear
+ 2066  ls
+ 2067  cd ..
+ 2068  ls
+ 2069  rm -rf myproject
+ 2070  ls
+ 2071  cd ..
+ 2072  ls
+ 2073  mv command-line terminal-commands
+ 2074  ls
+ 2075  cd terminal-commands
+ 2076  ls
+ 2077  code terminal-commands.md
+ 2078  ls
+ 2079  cat terminal-commands.md
+ 2080  code terminal-commands.md
+ 2081  ls
+ 2082  git init
+ 2083  git add .
+ 2084  git commit -m "first commit"
+ 2085  ls
+ 2086  git remote add origin https://github.com/emanuelefavero/terminal-commands.git
+ 2087  git branch -M main
+ 2088  git push -u origin main
+ 2089  ls
+ 2090  mkdir .github
+ 2091  cd .github
+ 2092  touch README.md
+ 2093  ls
+ 2094  vi README.md
+ 2095  cat terminal-commands.md
+ 2096  cat README.md
+ 2097  cd ../
+ 2098  ls
+ 2099  git add .
+ 2100  git commit -m "add .github/README.md symbolic link to terminal-commands.md"
+ 2101  git push -u origin main
+ 2102  ls
+ 2103  git push -u origin main
+ 2104  git reset --soft HEAD^
+ 2105  git push -u origin main --force
+ 2106  ls .github
+ 2107  ls
+ 2108  ls -a
+ 2109  rm .github
+ 2110  rm -rf .github
+ 2111  ls
+ 2112  git pull https://github.com/emanuelefavero/terminal-commands
+ 2113  ls
+ 2114  cd ..
+ 2115  ls
+ 2116  rm -rf terminal-commands
+ 2117  ls
+ 2118  git clone https://gist.github.com/emanuelefavero/terminal-commands
+ 2119  git clone https://github.com/emanuelefavero/terminal-commands.git
+ 2120  ls
+ 2121  cd terminal-commands
+ 2122  l;s
+ 2123  ls
+ 2124  clear
+ 2125  history
+ 2126  clera
+ 2127  clear
+ 2128  ls
+ 2129  cd ..
+ 2130  ls
+ 2131  java --version
+ 2132  ls
+ 2133  cd Desktop
+ 2134  ls
+ 2135  npx create-react-app fetch-json-placeholder
+ 2136  ls
+ 2137  cd fetch-json-placeholder
+ 2138  ls
+ 2139  code .
+ 2140  ls
+ 2141  npm start
+ 2142  npm view react version
+ 2143  ls
+ 2144  ls -a
+ 2145  cd .git
+ 2146  ls
+ 2147  cd ..
+ 2148  ls
+ 2149  git remote add origin https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2150  git branch
+ 2151  git branch -M main
+ 2152  git push -u origin main --force
+ 2153  git remote add origin https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2154  ls
+ 2155  ls -a
+ 2156  rm -rf .git
+ 2157  ls
+ 2158  cd ..
+ 2159  ls
+ 2160  mv fetch-json-placeholder minimal-react-app
+ 2161  ls
+ 2162  cd minimal-react-app
+ 2163  ls
+ 2164  git init
+ 2165  git add .
+ 2166  git commit -m "first commit"
+ 2167  git remote add origin https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2168  git branch -M main
+ 2169  git push -u origin main
+ 2170  ls
+ 2171  code .
+ 2172  cd ..
+ 2173  ls
+ 2174  code .
+ 2175  ls
+ 2176  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2177  ls
+ 2178  rm -rf create-react-app-minimal
+ 2179  ls
+ 2180  git clone https://github.com/emanuelefavero/create-react-app-minimal.git fetch-json-placeholder
+ 2181  ls
+ 2182  cd fetch-json-placeholder
+ 2183  ls
+ 2184  cd ..
+ 2185  ls
+ 2186  cd fetch-json-placeholder
+ 2187  ls
+ 2188  cd ..
+ 2189  ls
+ 2190  mkdir cra-template
+ 2191  ls
+ 2192  cd fetch-json-placeholder
+ 2193  ls
+ 2194  ls -a
+ 2195  ls
+ 2196  cd ..
+ 2197  ls
+ 2198  cd cra-template
+ 2199  ls
+ 2200  npm init -y
+ 2201  code .
+ 2202  cd ..
+ 2203  ls
+ 2204  cd fetch-json-placeholder
+ 2205  code .
+ 2206  cd ..
+ 2207  ls
+ 2208  cd cra-template
+ 2209  ls
+ 2210  cd ..
+ 2211  ls
+ 2212  mv cra-template cra-template-minimal
+ 2213  ls
+ 2214  cd cra-template-minimal
+ 2215  ls
+ 2216  ls -a
+ 2217  rm -rf package.json template.json
+ 2218  ls
+ 2219  npm init -y
+ 2220  code .
+ 2221  git add .
+ 2222  d ..
+ 2223  cd ..
+ 2224  ls
+ 2225  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2226  ls
+ 2227  cd create-react-app-minimal
+ 2228  ls
+ 2229  code .
+ 2230  ls
+ 2231  git add .
+ 2232  git commit -m "fix indentation from 2 to 4"
+ 2233  git push -u origin main
+ 2234  ls
+ 2235  cd ..
+ 2236  ls
+ 2237  mkdir test
+ 2238  ls
+ 2239  cd test
+ 2240  ls
+ 2241  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2242  ls
+ 2243  cd create-react-app-minimal
+ 2244  ls
+ 2245  code .
+ 2246  ls
+ 2247  git add .
+ 2248  git commit -m "fix index.html indentation from 2 to 4"
+ 2249  ls
+ 2250  cd ..
+ 2251  ls
+ 2252  rm -rf create-react-app-minimal
+ 2253  ls
+ 2254  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2255  ls
+ 2256  cd create-react-app-minimal
+ 2257  code .
+ 2258  ls
+ 2259  cd ..
+ 2260  ls
+ 2261  cd test
+ 2262  ls
+ 2263  rm -rf create-react-app-minimal
+ 2264  ls
+ 2265  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2266  ls
+ 2267  cd create-react-app-minimal
+ 2268  code .
+ 2269  ls
+ 2270  cd ..
+ 2271  ls
+ 2272  cd ..
+ 2273  ls
+ 2274  rm -rf test
+ 2275  ls
+ 2276  mkdir test
+ 2277  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2278  cd ..
+ 2279  ls
+ 2280  cd Desktop
+ 2281  ls
+ 2282  rm -rf create-react-app-minimal
+ 2283  ls
+ 2284  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2285  ls
+ 2286  cd cra-template-minimal
+ 2287  ls
+ 2288  cd Desktop
+ 2289  ls
+ 2290  cd create-react-app-minimal
+ 2291  ls
+ 2292  code .
+ 2293  ls
+ 2294  npx create-react-app my-app --template file:.
+ 2295  cd my-app
+ 2296  ls
+ 2297  code .
+ 2298  ls
+ 2299  cd ..
+ 2300  ls
+ 2301  npm start
+ 2302  npm i
+ 2303  npm start
+ 2304  ls
+ 2305  cd ..
+ 2306  ls
+ 2307  rm -rf create-react-app-minimal
+ 2308  ls
+ 2309  git clone https://github.com/emanuelefavero/create-react-app-minimal.git
+ 2310  ls
+ 2311  cd create-react-app-minimal
+ 2312  ls
+ 2313  npm i
+ 2314  npm start
+ 2315  ls
+ 2316  rm -rf my-app
+ 2317  ls
+ 2318  npm publish
+ 2319  how-to-npm
+ 2320  npm adduser
+ 2321  npm publish
+ 2322  ls
+ 2323  npm publish
+ 2324  ls
+ 2325  cd ..
+ 2326  ls
+ 2327  cd cra-template-minimal
+ 2328  ls
+ 2329  cd ..
+ 2330  ls
+ 2331  mv cra-template-minimal cra-template-essential
+ 2332  ls
+ 2333  cd cra-template-essential
+ 2334  ls
+ 2335  code .
+ 2336  npm login
+ 2337  npm publish
+ 2338  cat /Users/ef/.npm/_logs/2022-09-15T04_02_07_797Z-debug-0.log
+ 2339  npm --version
+ 2340  node --version
+ 2341  ls
+ 2342  cd ..
+ 2343  ls
+ 2344  cd Desktop
+ 2345  ls
+ 2346  clear
+ 2347  ls
+ 2348  cd fetch-json-placeholder
+ 2349  code .
+ 2350  npm start
+ 2351  npm i
+ 2352  npm start
+ 2353  cd Desktop
+ 2354  ls
+ 2355  cd backend-hosting
+ 2356  code .
+ 2357  npm start
+ 2358  ls
+ 2359  npm i cors
+ 2360  git add .
+ 2361  git commit -m "add cors express middleware to allow cross origin API calls on the client"
+ 2362  git push -u origin main
+ 2363  npm start
+ 2364  cd ..
+ 2365  ls
+ 2366  mv fetch-json-placeholder react-fetch-cors-api
+ 2367  ls
+ 2368  cd react-fetch-cors-api
+ 2369  code .
+ 2370  ls
+ 2371  rm -rf .git
+ 2372  git init
+ 2373  git add .
+ 2374  rm -rf .git
+ 2375  clear
+ 2376  npm start
+ 2377  git init
+ 2378  git add .
+ 2379  git commit -m "first commit"
+ 2380  git remote add origin https://github.com/emanuelefavero/react-fetch-cors-api.git
+ 2381  git branch -M main
+ 2382  git push -u origin main
+ 2383  cd ..
+ 2384  ls
+ 2385  cp r react-fetch-cors-api react-axios-cors-api
+ 2386  cp -r react-fetch-cors-api react-axios-cors-api
+ 2387  ls
+ 2388  cd react-axios-cors-api
+ 2389  ls
+ 2390  rm -rf node_modules
+ 2391  npm i
+ 2392  npm i axios
+ 2393  rm -rf .git
+ 2394  code .
+ 2395  ls
+ 2396  cd Desktop
+ 2397  ls
+ 2398  cd react-axios-cors-api
+ 2399  code .
+ 2400  npm start
+ 2401  git init
+ 2402  ls
+ 2403  rm -rf .git
+ 2404  git init
+ 2405  git add .
+ 2406  git commit -m "first commit"
+ 2407  git remote add origin https://github.com/emanuelefavero/react-axios-cors-api.git
+ 2408  git branch -M main
+ 2409  git push -u origin main
+ 2410  ls
+ 2411  cd Desktop
+ 2412  ls
+ 2413  git clone https://github.com/emanuelefavero/react-fetch-cors-api.git css-placeholder-animation
+ 2414  ls
+ 2415  cd css-placeholder-animation
+ 2416  ls
+ 2417  code .
+ 2418  ls
+ 2419  npm i
+ 2420  npm start
+ 2421  ls
+ 2422  rm -rf .git
+ 2423  git init
+ 2424  git commit -m "first commit"
+ 2425  git add .
+ 2426  rm -rf .git
+ 2427  git init
+ 2428  git add .
+ 2429  git commit -m "first commit"
+ 2430  ls
+ 2431  cd ..
+ 2432  cp -r css-placeholder-animation react-placeholder-animation
+ 2433  ls
+ 2434  cd react-placeholder-animation
+ 2435  ls
+ 2436  code .
+ 2437  ls
+ 2438  rm -rf .git
+ 2439  rm -rf node_modules
+ 2440  npm i
+ 2441  npm start
+ 2442  code .
+ 2443  ls
+ 2444  npm start
+ 2445  git init
+ 2446  git add .
+ 2447  git commit -m "first commit"
+ 2448  git remote add origin https://github.com/emanuelefavero/react-placeholder-animation.git
+ 2449  git branch -M main
+ 2450  git push -u origin main
+ 2451  ls
+ 2452  cd ..
+ 2453  ls
+ 2454  rm -rf css-placeholder-animation
+ 2455  ls
+ 2456  cd Desktop
+ 2457  ls
+ 2458  git clone https://github.com/emanuelefavero/create-react-app-minimal.git react-styled-components
+ 2459  ls
+ 2460  cd react-styled-components
+ 2461  code .
+ 2462  ls
+ 2463  npm i
+ 2464  npm i styled-components
+ 2465  npm start
+ 2466  rm -rf .git
+ 2467  git init
+ 2468  git add .
+ 2469  git commit -m "first commit"
+ 2470  git remote add origin https://github.com/emanuelefavero/react-styled-components.git
+ 2471  git branch -M main
+ 2472  git push -u origin main
+ 2473  git pull https://github.com/emanuelefavero/react-styled-components.git 
+ 2474  ls
+ 2475  npm start
+ 2476  clear
+ 2477  ls
+ 2478  cd Desktop
+ 2479  ls
+ 2480  vi 0.js
+ 2481  node 0.js
+ 2482  vi 0.js
+ 2483  node 0.js
+ 2484  cat 0.js
+ 2485  rm 0.js
+ 2486  ls
+ 2487  cd dev-tools-console-methods
+ 2488  code .
+ 2489  ls
+ 2490  git init
+ 2491  git add .
+ 2492  git commit -m "first commit"
+ 2493  git remote add origin https://github.com/emanuelefavero/dev-tools-console-methods.git
+ 2494  git branch -M main
+ 2495  git push -u origin main
+ 2496  git add .
+ 2497  git commit -m "prompt user to open dev tools"
+ 2498  git push -u origin main
+ 2499  cd Desktop
+ 2500  ls
+ 2501  cd npm-name
+ 2502  ls
+ 2503  npm install --global npm-name-cli
+ 2504  cd
+ 2505  ls
+ 2506  cd
+ 2507  npm-name chalk
+ 2508  npm-name react
+ 2509  cd Desktop
+ 2510  ls
+ 2511  cd npm-name
+ 2512  ls
+ 2513  cd ..
+ 2514  rm -rf npm-name
+ 2515  cd
+ 2516  clear
+ 2517  npm-name cra-template-essential
+ 2518  npm-name cra-template-micro
+ 2519  cd Desktop
+ 2520  ls
+ 2521  npm-name cra-template-clean
+ 2522  npm-name cra-template-cleaned
+ 2523  mv cra-template-essential cra-template-cleaned
+ 2524  cd cra-template-cleaned
+ 2525  code .
+ 2526  ls
+ 2527  npm publish
+ 2528  npm version
+ 2529  npm version 1.0.1
+ 2530  npm publish
+ 2531  ls
+ 2532  cd Downloads
+ 2533  ls
+ 2534  cd .
+ 2535  cd ..
+ 2536  ls
+ 2537  cd Desktop
+ 2538  npx create-react-app my-app --template cleaned
+ 2539  cd my-app
+ 2540  npm start
+ 2541  cd Desktop
+ 2542  code .
+ 2543  cd Desktop
+ 2544  ls
+ 2545  cd cra-template-cleaned
+ 2546  code .
+ 2547  ls -a
+ 2548  git init
+ 2549  git add .
+ 2550  git commit -m "first commit"
+ 2551  git remote add origin https://github.com/emanuelefavero/cra-template-cleaned.git
+ 2552  git branch -M main
+ 2553  git push -u origin main
+ 2554  ls
+ 2555  cd Desktop
+ 2556  touch 0.js
+ 2557  cd Desktop
+ 2558  touch 0.js index.html style.css 1.py README.md newfile.txt
+ 2559  ls
+ 2560  cd Desktop
+ 2561  ls
+ 2562  code .
+ 2563  ls
+ 2564  clear
+ 2565  neofetch
+ 2566  cd Desktop
+ 2567  ls
+ 2568  cd the-odin-project
+ 2569  ls
+ 2570  grep "import" ./*
+ 2571  cd odin-landing-page
+ 2572  ls
+ 2573  cd css
+ 2574  ls
+ 2575  grep "body" ./*
+ 2576  grep "body" style.css
+ 2577  history
+ 2578  cd
+ 2579  clear
+ 2580  ls
+ 2581  cd Desktop
+ 2582  ls
+ 2583  nodemon 0
+ 2584  mkdir test
+ 2585  ls
+ 2586  mv 0.js test/
+ 2587  ls
+ 2588  cd test
+ 2589  ls
+ 2590  nodemon 0
+ 2591  npm i prompt
+ 2592  npm remove prompt
+ 2593  nodemon 0
+ 2594  npm i prompt-sync
+ 2595  nodemon 0
+ 2596  code .
+ 2597  ls
+ 2598  rm -rf ./*
+ 2599  ls
+ 2600  touch index.js
+ 2601  npm init -y
+ 2602  npm i prompt-sync
+ 2603  nodemon 0
+ 2604  npm remove prompt-sync
+ 2605  npm i prompt
+ 2606  nodemon 0
+ 2607  clear
+ 2608  ls
+ 2609  cd Desktop
+ 2610  ls
+ 2611  nodemon 0
+ 2612  ls
+ 2613  cd Desktop
+ 2614  ls
+ 2615  nodemon 0
+ 2616  cd Desktop
+ 2617  nodemon 0
+ 2618  tymon 0
+ 2619  nodemon 0.ts
+ 2620  node 0.js
+ 2621  tsc 0.ts
+ 2622  nodemon 0.ts
+ 2623  ssh sshtron.zachlatta.com
+ 2624  /Users/ef/code/FRONTEND/dicee 
+ 2625  ls
+ 2626  code .
+ 2627  cd ..
+ 2628  ls
+ 2629  mv dicee roll-two-dices
+ 2630  cd roll-two-dices
+ 2631  code .
+ 2632  cd ..
+ 2633  mv roll-two-dices roll-two-dice
+ 2634  cd roll-two-dices
+ 2635  grep roll-two-dice
+ 2636  cd roll-two-dice
+ 2637  code .
+ 2638  ls
+ 2639  git init
+ 2640  git add .
+ 2641  git commit -m "first commit"
+ 2642  git remote add origin https://github.com/emanuelefavero/roll-two-dice.git
+ 2643  git branch -M main
+ 2644  git push -u origin main
+ 2645  ls
+ 2646  code .
+ 2647  ls
+ 2648  cd rock-paper-scissors
+ 2649  code .
+ 2650  ls
+ 2651  git init
+ 2652  git add .
+ 2653  git commit -m "first commit"
+ 2654  ls -a
+ 2655  clear
+ 2656  git add .
+ 2657  git commit -m "lesson finished"
+ 2658  cd ..
+ 2659  mv rock-paper-scissors odin-rock-paper-scissors
+ 2660  ls
+ 2661  mv odin-rock-paper-scissors the-odin-project/
+ 2662  ls
+ 2663  cd the-odin-project
+ 2664  ls
+ 2665  cd odin-rock-paper-scissors
+ 2666  ls
+ 2667  touch README.md
+ 2668  code .
+ 2669  ls
+ 2670  git add .
+ 2671  git commit -m "add README.md"
+ 2672  ls
+ 2673  git remote add origin https://github.com/emanuelefavero/odin-rock-paper-scissors.git
+ 2674  git branch -M main
+ 2675  git push -u origin main
+ 2676  nvm -v
+ 2677  node -v
+ 2678  node
+ 2679  cd Desktop
+ 2680  ls
+ 2681  git clone https://github.com/electron/electron-quick-start
+ 2682  ls
+ 2683  cd electron-quick-start
+ 2684  ls
+ 2685  code .
+ 2686  ls
+ 2687  npm i && npm start
+ 2688  npm start
+ 2689  npm run make
+ 2690  cd ..
+ 2691  ls
+ 2692  cd
+ 2693  npm install -g electron-forge
+ 2694  ls
+ 2695  cd Desktop
+ 2696  ls
+ 2697  cd electron-quick-start
+ 2698  electron-forge package
+ 2699  cd ..
+ 2700  ls
+ 2701  electron-forge init my-new-app
+ 2702  ls
+ 2703  cd my-new-app
+ 2704  ls
+ 2705  electron-forge start
+ 2706  cd ..
+ 2707  ls
+ 2708  rm -rf my-new-app
+ 2709  ls
+ 2710  yarn create electron-app my-app
+ 2711  npm install -g @electron-forge/cli
+ 2712  ls
+ 2713  cd my-app
+ 2714  yarn start
+ 2715  ls
+ 2716  code .
+ 2717  ls
+ 2718  yarn start
+ 2719  npm start
+ 2720  yarn start
+ 2721  npm start
+ 2722  yarn make
+ 2723  yarn start
+ 2724  npm install custom-electron-titlebar
+ 2725  yarn start
+ 2726  ls
+ 2727  yarn make
+ 2728  yarn start
+ 2729  yarn make
+ 2730  /Users/ef/Desktop/debugging-duck 
+ 2731  code .
+ 2732  cd ..
+ 2733  ls
+ 2734  git clone https://github.com/emanuelefavero/odin-rock-paper-scissors
+ 2735  ls
+ 2736  cd the-odin-project
+ 2737  ls
+ 2738  cd ..
+ 2739  ls
+ 2740  rm -rf ./odin-rock-paper-scissors
+ 2741  ls
+ 2742  ls -a
+ 2743  rm -rf .git
+ 2744  git init
+ 2745  git add .
+ 2746  git commit -m "first commit"
+ 2747  git remote add origin https://github.com/emanuelefavero/debugging-duck.git
+ 2748  git branch -M main
+ 2749  git push -u origin main
+ 2750  yarn start
+ 2751  ls
+ 2752  yarn start
+ 2753  npm i electron-settings
+ 2754  yarn start
+ 2755  npm remove electron-settings
+ 2756  yarn start
+ 2757  yarn add electron-builder --dev
+ 2758  yarn dist
+ 2759  yarn start
+ 2760  yarn dist
+ 2761  yarn start
+ 2762  yarn dist
+ 2763  ls
+ 2764  yarn start
+ 2765  git add .
+ 2766  git commit -m "add phrases and mouse follow features"
+ 2767  git push -u origin main
+ 2768  cd ..
+ 2769  ls
+ 2770  cp debugging-duck debugging-duck-COPY
+ 2771  cp -r debugging-duck debugging-duck-COPY
+ 2772  ls
+ 2773  cd debugging-duck
+ 2774  ls
+ 2775  git pull https://github.com/emanuelefavero/debugging-duck.git
+ 2776  yarn start
+ 2777  git add .
+ 2778  git push -u origin main
+ 2779  yarn start
+ 2780  yarn dist
+ 2781  ls
+ 2782  npx -v
+ 2783  clear
+ 2784  pwd
+ 2785  clear
+ 2786  brew install watchman
+ 2787  brew install chruby
+ 2788  ls -a
+ 2789  vi ~/.zshrc
+ 2790  WHICH #SHELL
+ 2791  which $SHELL
+ 2792  cd /etc
+ 2793  ls
+ 2794  find . -name "profile.d"
+ 2795  ls -l1
+ 2796  ls -1a
+ 2797  find . -print | grep -i chruby.sh
+ 2798  sudo find . -print | grep -i chruby.sh
+ 2799  ls
+ 2800  ./.zshrc
+ 2801  exec zsh
+ 2802  cd
+ 2803  cat ./.zshrc
+ 2804  cd /opt/homebrew/opt/
+ 2805  ls
+ 2806  cd chruby
+ 2807  ls
+ 2808  cd share
+ 2809  ls
+ 2810  cd chruby
+ 2811  ls
+ 2812  chruby -h
+ 2813  brew install ruby-install
+ 2814  ruby-install -v
+ 2815  ruby-install -V
+ 2816  ruby-install --latest
+ 2817  ruby-install --update
+ 2818  ruby-install --update ruby
+ 2819  ruby -v
+ 2820  exec zsh
+ 2821  cd
+ 2822  ls
+ 2823  cd "$OLDPWD"
+ 2824  ls
+ 2825  cd
+ 2826  xcode-select -v
+ 2827  sudo gem install cocoapods
+ 2828  sudo arch -x86_64 gem install ffi
+ 2829  arch -x86_64 pod install
+ 2830  npm uninstall -g react-native-cli @react-native-community/cli
+ 2831  ls
+ 2832  cd Desktop
+ 2833  ls
+ 2834  cd react-native
+ 2835  npx react-native init DebuggingDuck
+ 2836  ls
+ 2837  cd Desktop
+ 2838  ls
+ 2839  cd react-native
+ 2840  ls
+ 2841  npx react-native init DebuggingDuck
+ 2842  ls
+ 2843  cd DebuggingDuck
+ 2844  ls
+ 2845  cd ios
+ 2846  ls
+ 2847  cd ..
+ 2848  ls
+ 2849  cd ..
+ 2850  ls
+ 2851  ls -al
+ 2852  ls -alh
+ 2853  ls
+ 2854  cd ./DebuggingDuck/ios && pod install
+ 2855  sudo arch -x86_64 gem install ffi
+ 2856  ls
+ 2857  cd ..
+ 2858  ls
+ 2859  sudo arch -x86_64 gem install ffi
+ 2860  arch -x86_64 pod install
+ 2861  ls
+ 2862  cd ios
+ 2863  ls
+ 2864  arch -x86_64 pod install
+ 2865  env /usr/bin/arch -arm64 /bin/bash --login
+ 2866  - npx react-native start
+ 2867  npx react-native start
+ 2868  ls
+ 2869  cd Desktop
+ 2870  ls
+ 2871  cd debugging-duck
+ 2872  ls
+ 2873  cd ..
+ 2874  ls
+ 2875  cd react-native
+ 2876  ls
+ 2877  cd DebuggingDuck
+ 2878  ls
+ 2879  npx react-native run-ios
+ 2880  ls
+ 2881  cd ios
+ 2882  ls
+ 2883  npx react-native run-ios
+ 2884  cd ..
+ 2885  ls
+ 2886  cd ..
+ 2887  ls
+ 2888  xcrun simctl list devices
+ 2889  ls
+ 2890  cd Desktop
+ 2891  ls
+ 2892  cd react-native
+ 2893  ls
+ 2894  cd DebuggingDuck
+ 2895  ls
+ 2896  cd ios
+ 2897  ls
+ 2898  cd DebuggingDuck
+ 2899  ls
+ 2900  cd ..
+ 2901  ls
+ 2902  cd ..
+ 2903  ls
+ 2904  cd ..
+ 2905  ls
+ 2906  cd DebuggingDuck
+ 2907  ls
+ 2908  find / -type d -name 'src'
+ 2909  find ./ -type d -name 'src'
+ 2910  ls
+ 2911  cd ios
+ 2912  ls
+ 2913  cd Pods
+ 2914  ls
+ 2915  cd fmt
+ 2916  ls
+ 2917  cd src
+ 2918  ls
+ 2919  cd ..
+ 2920  cd /ios/Pods/glog/src
+ 2921  cd ~/ios/Pods/glog/src
+ 2922  cd ..
+ 2923  ls
+ 2924  cd glog
+ 2925  ls
+ 2926  cd src
+ 2927  ls
+ 2928  cd ..
+ 2929  ls
+ 2930  cd ..
+ 2931  ls
+ 2932  cd ..
+ 2933  ls
+ 2934  cat App.js
+ 2935  code .
+ 2936  xcrun simctl list devices
+ 2937  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2938  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 2939  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2940  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 2941  history
+ 2942  ls
+ 2943  git init
+ 2944  ls
+ 2945  rm -rf .git
+ 2946  ls
+ 2947  git init -y
+ 2948  git init
+ 2949  git add .
+ 2950  git commit -m "first commit"
+ 2951  git remote add origin https://github.com/emanuelefavero/debugging-duck-mobile.git
+ 2952  git branch -M main
+ 2953  git push -u origin main
+ 2954  ls
+ 2955  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 2956  npx react-native run-ios
+ 2957  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2958  post_install do |installer|\n  installer.pods_project.targets.each do |target|\n    if target.respond_to?(:product_type) and target.product_type == "com.apple.product-type.bundle"\n      target.build_configurations.each do |config|\n          config.build_settings['CODE_SIGNING_ALLOWED'] = 'NO'\n      end\n    end\n  end\nend
+ 2959  ls
+ 2960  cd
+ 2961  cd Desktop
+ 2962  ls
+ 2963  vi script.sh
+ 2964  sh ./script.sh
+ 2965  ls
+ 2966  rm -rf ./script.sh
+ 2967  clear
+ 2968  exit
+ 2969  clear
+ 2970  npx react-native run-ios
+ 2971  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2972  npx react-native-asset
+ 2973  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2974  git add .
+ 2975  git commit -m "add elements and styling"
+ 2976  git push -u origin main
+ 2977  ls
+ 2978  git add .
+ 2979  git commit -m "fix spelling errors in preload.js"
+ 2980  git push -u origin main
+ 2981  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2982  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 2983  ls
+ 2984  cd src
+ 2985  ls
+ 2986  cat preload.js
+ 2987  grep ./ -name 'Still'
+ 2988  git add .
+ 2989  git commit -m "fix spelling errors in preload.js - 2"
+ 2990  git push -u origin main
+ 2991  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 2992  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 2993  git add .
+ 2994  git commit -m "add phrases, eyes features and animations"
+ 2995  git push -u origin main
+ 2996  git add .
+ 2997  git commit -m "update README.md with instruction for running app"
+ 2998  git push -u origin main
+ 2999  ls
+ 3000  git add .
+ 3001  git commit -m "add LICENSE.md file"
+ 3002  git push -u origin main
+ 3003  ls
+ 3004  git add .
+ 3005  git commit -m "add LICENSE.md file"
+ 3006  git push -u origin main
+ 3007  ls
+ 3008  git init
+ 3009  git add .
+ 3010  git commit -m "first commit"
+ 3011  cd ..
+ 3012  ls
+ 3013  mv LICENSES/ licenses/
+ 3014  ls
+ 3015  cd licenses
+ 3016  ls
+ 3017  rm -rf .git
+ 3018  git init
+ 3019  git commit -m "first commit"
+ 3020  rm -rf .git
+ 3021  git init
+ 3022  git add .
+ 3023  git commit -m "first commit"
+ 3024  git remote add origin https://github.com/emanuelefavero/licenses.git
+ 3025  git branch -M main
+ 3026  git push -u origin main
+ 3027  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 3028  clear
+ 3029  ls
+ 3030  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3031  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 3032  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3033  git add .
+ 3034  git commit -m "add close eyes animation and active app state handling"
+ 3035  git push -u origin main
+ 3036  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3037  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 3038  cd ..
+ 3039  ls
+ 3040  cd Desktop
+ 3041  ls
+ 3042  cd react-native
+ 3043  ls
+ 3044  mv "Debugging Duck" DebuggingDuck
+ 3045  ls
+ 3046  cd DebuggingDuck
+ 3047  ls
+ 3048  code .
+ 3049  react-native eject
+ 3050  npx react-native eject
+ 3051  npm i react-native-eject
+ 3052  npm i @react-native-community/cli
+ 3053  react-native eject
+ 3054  npx react-native eject
+ 3055  ls
+ 3056  cd ..
+ 3057  ls
+ 3058  git clone https://github.com/emanuelefavero/debugging-duck-mobile.git "Debugging Duck"
+ 3059  ls
+ 3060  cd "Debugging Duck\nls
+ 3061  ls
+ 3062  cd "Debugging Duck"
+ 3063  ls
+ 3064  code .
+ 3065  pwd
+ 3066  react-native upgrade
+ 3067  npx react-native upgrade
+ 3068  react-native eject
+ 3069  npm i react-native-eject
+ 3070  npm i @react-native-community/cli
+ 3071  react-native eject
+ 3072  npx react-native eject
+ 3073  npm i @react-native-community/cli
+ 3074  npx react-native eject
+ 3075  git diff
+ 3076  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3077  ls
+ 3078  cd ..
+ 3079  ls
+ 3080  cd DebuggingDuckCLONED
+ 3081  ls
+ 3082  code .
+ 3083  npm i
+ 3084  react-native start
+ 3085  npx react-native start
+ 3086  ls
+ 3087  cd Desktop
+ 3088  ls
+ 3089  cd react-native
+ 3090  ls
+ 3091  cd DebuggingDuck
+ 3092  ls
+ 3093  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3094  npx react-native link
+ 3095  npm i react-native-link
+ 3096  npx react-native link
+ 3097  ls
+ 3098  cd ios
+ 3099  sudo gem install cocoa pods
+ 3100  pod install
+ 3101  cd ..
+ 3102  code .
+ 3103  pod deintegrate
+ 3104  ls
+ 3105  cd ios
+ 3106  pod deintegrate
+ 3107  pod clean
+ 3108  pod install
+ 3109  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 3110  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3111  git diff
+ 3112  cd ..
+ 3113  ls
+ 3114  git add .
+ 3115  git commit -m "add separate file phrases.json for duck phrases"
+ 3116  git push -u origin main
+ 3117  git add .
+ 3118  git commit -m "add breathing animation (small jump)"
+ 3119  git push -u origin main
+ 3120  git add .
+ 3121  git commit -m "change breathing animation name (from small jump to breathing)"
+ 3122  git push -u origin main
+ 3123  npm start
+ 3124  npx react-native run-ios --simulator="iPhone 14 Pro"
+ 3125  /Users/ef/Desktop/react-native/DebuggingDuck/node_modules/react-native/scripts/launchPackager.command ; exit;
+ 3126  git add .
+ 3127  git commit -m "minor phrase fix (removed emoji)"
+ 3128  git push -u origin main
+ 3129  npm start
+ 3130  git add .
+ 3131  git commit -m "add breathing and little jump animations"
+ 3132  git push -u origin main
+ 3133  npm start
+ 3134  cd ..
+ 3135  ls
+ 3136  mkdir test
+ 3137  cd test
+ 3138  ls
+ 3139  git clone https://github.com/emanuelefavero/debugging-duck.git
+ 3140  ls
+ 3141  cd debugging-duck
+ 3142  ls
+ 3143  npm i
+ 3144  yarn start
+ 3145  git revert HEAD
+ 3146  code .
+ 3147  cd ..
+ 3148  ls
+ 3149  rm -rf debugging-duck
+ 3150  git clone https://github.com/emanuelefavero/debugging-duck.git
+ 3151  ls
+ 3152  cd debugging-duck
+ 3153  code .
+ 3154  git log
+ 3155  git revert fd1ad015d88468c6697df586c5854bed287ef251
+ 3156  ls
+ 3157  code .
+ 3158  yarn start
+ 3159  npm i
+ 3160  yarn start
+ 3161  ls
+ 3162  git add .
+ 3163  git commit -m "revert to previous commit while still adding animations"
+ 3164  git push -u origin main
+ 3165  yarn start
+ 3166  git add .
+ 3167  git commit -m "add better comments"
+ 3168  git push -u origin main
+ 3169  ls
+ 3170  yarn make
+ 3171  npm run make
+ 3172  npm i
+ 3173  npm run make
+ 3174  npx electron-packager ./ --platform=darwin --icon=/resources/icon.icns
+ 3175  npx electron-packager ./ --platform=darwin --icon=./resources/icon.icns
+ 3176  npm run make ./ --platform=darwin --icon=./resources/icon.icns
+ 3177  history
+ 3178  cat history >> history-e.txt
