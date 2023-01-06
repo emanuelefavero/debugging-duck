@@ -56,3 +56,7 @@ Ducky will always appear on the bottom right corner of your screen (no matter yo
 > - Add a way to change the duck's color
 > - Add rubber duck sounds when you click on it
 > - Add a way to choose 3d or 2d duck
+
+## License
+
+- [MIT](LICENSE.md)
