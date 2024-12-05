@@ -19,10 +19,12 @@ Ducky will always appear on the bottom right corner of your screen (no matter yo
 
 ## How to use (with Electron Forge)
 
+> Note: You need `yarn` installed on your machine: `npm install --global yarn`
+
     ```bash
     cd debugging-duck
-    npm i
-    yarn start OR npm start
+    yarn install
+    yarn start
     ```
 
 ## Build App with electron-builder (slow, supports custom icon)
@@ -34,7 +36,7 @@ Ducky will always appear on the bottom right corner of your screen (no matter yo
 ## Build App with Electron Forge (fast, no custom icon)
 
     ```bash
-    yarn make OR npm run make
+    yarn make
     ```
 
 #### Resources
